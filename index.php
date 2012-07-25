@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>Yaniv Training</title>
+<title>OOP Practice</title>
 
 <style type="text/css"> 
 h3
